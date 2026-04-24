@@ -1,17 +1,17 @@
 {
   "expo": {
-    "name": "editorial-nook",
-    "slug": "editorial-nook",
+    "name": "Owl Haven",
+    "slug": "owl-haven",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "editorialnook",
+    "scheme": "owlhaven",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/images/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fdf9f3"
     },
     "ios": {
       "supportsTablet": true
@@ -19,7 +19,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#fdf9f3"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
